@@ -5,9 +5,9 @@
 ## 使用方法
 
 ### Linux
-将项目中的hosts文件添加（请勿覆盖）到当前/etc/hosts文件末尾
+使用root用户，将项目中的hosts文件添加（请勿覆盖）到当前/etc/hosts文件末尾
 <pre><code> wget https://github.com/4lan5/cn.blacklist.hosts/blob/master/hosts </code></pre>
-<pre><code> sudo cat hosts >> /etc/hosts </code></pre>
+<pre><code> cat hosts >> /etc/hosts </code></pre>
 
 ### Windows
 用你喜欢的编辑器（如记事本）打开hosts文件（C:\Windows\System32\drivers\etc\hosts），将 https://github.com/4lan5/cn.blacklist.hosts/blob/master/hosts 中的内容复制到文件末尾，保存即可
