@@ -763,6 +763,8 @@
 127.0.0.1 lianmeng.rising.com.cn
 127.0.0.1 data.rising.com.cn
 127.0.0.1 mwm.rising.com.cn
+127.0.0.1 download.rising.com.cn
+127.0.0.1 rsdownload.rising.com.cn
 127.0.0.1 reg.rising.com.cn
 
 127.0.0.1 hao.rising.cn
@@ -774,4 +776,27 @@
 127.0.0.1 game.rising.cn
 127.0.0.1 web.rising.cn
 
+
+# NO DUBA
+
+127.0.0.1 www.duba.net
+127.0.0.1 www.duba.com
+127.0.0.1 www.ijinshan.com
+127.0.0.1 dl.ijinshan.com
+127.0.0.1 cd001.www.duba.net
+127.0.0.1 cd002.www.duba.net
+127.0.0.1 cd003.www.duba.net
+127.0.0.1 cd004.www.duba.net
+127.0.0.1 cd005.www.duba.net
+127.0.0.1 cd006.www.duba.net
+127.0.0.1 cd007.www.duba.net
+127.0.0.1 cd008.www.duba.net
+127.0.0.1 cd009.www.duba.net
+127.0.0.1 cd010.www.duba.net
+127.0.0.1 cd011.www.duba.net
+127.0.0.1 cd012.www.duba.net
+
+
+# NO GUANJIA
+127.0.0.1 guanjia.qq.com
 
