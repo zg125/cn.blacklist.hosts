@@ -798,5 +798,38 @@
 
 
 # NO GUANJIA
+
 127.0.0.1 guanjia.qq.com
 
+
+# NO VERYCD
+
+127.0.0.1	lib.verycd.com
+127.0.0.1	m.verycd.com
+127.0.0.1	search.verycd.com
+127.0.0.1	secure.verycd.com
+127.0.0.1	shop.verycd.com
+127.0.0.1	stat.verycd.com
+127.0.0.1	store.verycd.com
+127.0.0.1	team.verycd.com
+127.0.0.1	upload.verycd.com
+127.0.0.1	www.verycd.com
+127.0.0.1	home.verycd.com
+127.0.0.1	bbs.verycd.com
+127.0.0.1	beta.verycd.com
+127.0.0.1	blog.verycd.com
+127.0.0.1	find.verycd.com
+127.0.0.1	gamma.verycd.com
+127.0.0.1	dev.verycd.com
+127.0.0.1	file.verycd.com
+127.0.0.1	mail.verycd.com
+127.0.0.1	mobile.verycd.com
+127.0.0.1	vpn.verycd.com
+
+127.0.0.1   www.dianlv.com
+127.0.0.1	ftp.dianlv.com
+127.0.0.1	ssh.dianlv.com
+127.0.0.1	mail.dianlv.com
+127.0.0.1	webmail.dianlv.com
+
+127.0.0.1   www.emule.org.cn
